@@ -19,3 +19,6 @@ nav a {
   padding-right: 10px;
 }
 
+figcaption {
+  text-align: center;
+}
