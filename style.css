@@ -14,3 +14,6 @@ img {
   margin-right: auto;
 }
 
+nav ~ a {
+  padding: 10px;
+}
